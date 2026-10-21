@@ -1,0 +1,8 @@
+{
+	"appId": "com.easylog.app",
+	"appName": "EasyLogAuto",
+	"webDir": "dist",
+	"android": {
+		"allowMixedContent": false
+	}
+}

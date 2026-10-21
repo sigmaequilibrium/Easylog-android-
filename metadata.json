@@ -1,0 +1,5 @@
+{
+  "name": "EasyLogAuto",
+  "description": "Smart mileage & ATO logbook tracker: automatic GPS drive tracking, car Bluetooth auto-start, AI trip tagging, route maps and odometer photo scanning.",
+  "requestFramePermissions": ["camera", "geolocation"]
+}
